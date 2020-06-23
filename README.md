@@ -1,13 +1,4 @@
 
-Benutzer
-Zugriffsschlüssel-ID
-Geheimer Zugriffsschlüssel
-ab11
-AKIAXHLUGZNHHKR6SYPC
-lnaL9Zv0owj6AgCTAse2UZfGbu9t94Ow1J6FTIj4
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
