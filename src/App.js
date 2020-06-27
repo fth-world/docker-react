@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Alternative Text 3: <code>src/App.js</code> and save to reload.
+          I am an alternative Text 3 on FEATURE branch: <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
